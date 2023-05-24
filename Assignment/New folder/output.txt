@@ -1,0 +1,80 @@
+Student-1:
+Name: Adnan Sarkar
+Id: 011212003
+Subject 1 marks:10 18 30 40 
+Subject 2 marks:10 18 30 40 
+Subject 3 marks:10 18 30 40 
+CGPA: 3.50
+
+Student-2:
+Name: Sarkar Adnan
+Id: 011212003
+Subject 1 marks:10 18 30 40 
+Subject 2 marks:10 18 30 40 
+Subject 3 marks:10 18 30 40 
+CGPA: 3.60
+
+Student-3:
+Name: Kawser
+Id: 011212374
+Subject 1 marks:10 18 30 40 
+Subject 2 marks:10 18 30 40 
+Subject 3 marks:10 18 30 40 
+CGPA: 3.90
+
+Student-4:
+Name: Nafiul Islam
+Id: 0112124657
+Subject 1 marks:10 18 30 40 
+Subject 2 marks:10 18 30 40 
+Subject 3 marks:10 18 30 40 
+CGPA: 4.00
+
+Student-5:
+Name: Limon
+Id: 0112124657
+Subject 1 marks:10 18 30 40 
+Subject 2 marks:10 18 30 40 
+Subject 3 marks:10 18 30 40 
+CGPA: 3.00
+
+Student-6:
+Name: Rafi Abrar
+Id: 0112124657
+Subject 1 marks:10 18 30 40 
+Subject 2 marks:10 18 30 40 
+Subject 3 marks:10 18 30 40 
+CGPA: 0.00
+
+Student-7:
+Name: Sadia Mam
+Id: 0112124657
+Subject 1 marks:10 18 30 40 
+Subject 2 marks:10 18 30 40 
+Subject 3 marks:10 18 30 40 
+CGPA: 4.00
+
+Student-8:
+Name: Aditya 
+Id: 0112124657
+Subject 1 marks:10 18 30 40 
+Subject 2 marks:10 18 30 40 
+Subject 3 marks:10 18 30 40 
+CGPA: 1.00
+
+Student-9:
+Name: Mufti
+Id: 0112124657
+Subject 1 marks:10 18 30 40 
+Subject 2 marks:10 18 30 40 
+Subject 3 marks:10 18 30 40 
+CGPA: 5.00
+
+Student-10:
+Name: Abu Henaf
+Id: 0112124657
+Subject 1 marks:10 18 30 40 
+Subject 2 marks:10 18 30 40 
+Subject 3 marks:10 18 30 40 
+CGPA: 4.50
+
