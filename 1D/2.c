@@ -3,7 +3,7 @@ void main()
 {
    int i,n,a[100], sum=0;
    printf("Input the number: ");
-   scanf("%d",&n);
+   scanf("%d",&n); //for taking user input
    for(i=0; i < n; i++)
       {
 	  scanf("%d", &a[i]);
