@@ -4,12 +4,12 @@ void main()
     int arr1[100];
     int i, mx, mn, n,mx_p,mn_p;
        printf("size? :");
-       scanf("%d",&n);
+       scanf("%d",&n); //for taking user input
        printf("Input %d elements:\n",n);
        for(i=0;i<n;i++)
             {
 	      printf("element - %d : ",i);
-	      scanf("%d",&arr1[i]);
+	      scanf("%d",&arr1[i]); //for taking user input
 	    }
     mx = arr1[0];
     mn = arr1[0];
